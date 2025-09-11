@@ -1,12 +1,10 @@
 <!-- Banner -->
-![Cyber Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5NnE1cmZubDQ4ZWRvZWVkYXNlbWlzangwaHRkeGVhdmE0MDZsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5NnE1cmZubDQ4ZWRvZWVkYXNlbWlzangwaHRkeGVhdmE0MDZsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="100%" alt="Cyber Banner"/>
+</p>
 
 <h1 align="center">⚡ M.K. Camara</h1>
 <h3 align="center">Cybersecurity Expert • Red Team Operator</h3>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="500" alt="Coding animation"/>
-</p>
 
 ---
 
