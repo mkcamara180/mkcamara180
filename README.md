@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5NnE1cmZubDQ4ZWRvZWVkYXNlbWlzangwaHRkeGVhdmE0MDZsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="100%" alt="Cyber Banner"/>
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="100%" alt="Cyber Banner"/>
 </p>
 
 <h1 align="center">⚡ M.K. Camara</h1>
