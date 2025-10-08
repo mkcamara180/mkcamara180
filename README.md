@@ -47,19 +47,3 @@ Cybersecurity Expert • Red Team Operator
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
-
----
-
-## 🎬 Final Note  
-<p style="font-size:18px; color:#00FFD1; font-weight:600; margin-top:15px;">
-💻 “Securing Tomorrow, One System at a Time.” 🚀  
-</p>
-
-</div>
-
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px #00FFD1, 0 0 20px #00FFD1, 0 0 40px #0077FF; }
-  to { text-shadow: 0 0 20px #FF4444, 0 0 40px #FF4444, 0 0 60px #FF4444; }
-}
-</style>
