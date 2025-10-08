@@ -1,46 +1,59 @@
-<h1 align="center">⚡ M.K. Camara</h1>
-<h3 align="center">Cybersecurity Expert • Red Team Operator</h3>
+<!-- 🌐 M.K Camara | Cybersecurity Portfolio -->
+<h1 align="center">
+  ⚡ <span style="font-family: 'Poppins', sans-serif; font-weight: 700; color:#00FFD1; text-shadow:0px 0px 15px #00FFD1;">M.K. Camara</span> ⚡
+</h1>
+<h3 align="center">
+  <span style="color:#C0C0C0;">Cybersecurity Expert • Red Team Operator</span>
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="animated snake grid" />
+</p>
 
 ---
 
 ## 👤 About Me  
-🔐 Ethical Hacker | Offensive Security | Secure Systems  
-🚀 Driving innovation, automation & cybersecurity into the future  
+🧠 **Ethical Hacker | Red Teaming | Offensive Security**  
+🚀 Passionate about **automation, innovation, and securing the digital future.**  
+💻 Turning vulnerabilities into victories through advanced cybersecurity research.  
 
 📞 **Phone / WhatsApp:** +234 816 376 7167  
-📫 **Email:** mkcamara180@gmail.com  
-📢 **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029Vb6XaBTEAKWGm5aLHb3q)  
+📫 **Email:** [mkcamara180@gmail.com](mailto:mkcamara180@gmail.com)  
+📢 **WhatsApp Channel:** [Join Here 🚀](https://whatsapp.com/channel/0029Vb6XaBTEAKWGm5aLHb3q)
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://instagram.com/mkcamara180"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.snapchat.com/add/Dfw_profmk"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
-  <a href="https://discordapp.com/users/mkcamara180"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:mkcamara180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+2348163767167"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammed-kerfala-camara-932792388/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/mkcamara180"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.snapchat.com/add/Dfw_profmk"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
+  <a href="https://discordapp.com/users/mkcamara180"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:mkcamara180@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+2348163767167"><img src="https://img.shields.io/badge/Phone-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🛠️ Tech & Cybersecurity Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,kali,wireshark,bash,burpsuite,metasploit,owasp,docker,github" />
+</p>
+
+---
+
+## ⚔️ Animated Visual
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkcamara180&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
 ## 🎬 Finishing Touch  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F700&center=true&vCenter=true&lines=Securing+the+Future...;Red+Team+Operator;Cybersecurity+Expert;Innovation+Through+Security" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFB7&center=true&vCenter=true&width=700&lines=Securing+the+Future...;Red+Team+Operator;Cybersecurity+Expert;Innovation+Through+Security;M.K.+Camara+⚡" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="100%" alt="Cyber Animation" />
 </p>
