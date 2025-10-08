@@ -1,13 +1,13 @@
 <!-- 🌐 M.K Camara | Cybersecurity Portfolio -->
 <h1 align="center">
-  ⚡ <span style="font-family: 'Poppins', sans-serif; font-weight: 700; color:#00FFD1; text-shadow:0px 0px 15px #00FFD1;">M.K. Camara</span> ⚡
+  🌍 <span style="font-family:'Poppins',sans-serif;font-weight:700;color:#00FFD1;text-shadow:0 0 20px #00FFD1,0 0 40px #00FFD1;">M.K. Camara</span> ⚡
 </h1>
 <h3 align="center">
-  <span style="color:#C0C0C0;">Cybersecurity Expert • Red Team Operator</span>
+  <span style="color:#B0B0B0;">Cybersecurity Expert • Red Team Operator</span>
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="animated snake grid" />
+  <img src="https://i.imgur.com/oX3D1lb.gif" width="100%" alt="Cyber World Animation" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 👤 About Me  
 🧠 **Ethical Hacker | Red Teaming | Offensive Security**  
 🚀 Passionate about **automation, innovation, and securing the digital future.**  
-💻 Turning vulnerabilities into victories through advanced cybersecurity research.  
+💻 Turning vulnerabilities into victories through **advanced cybersecurity research.**  
 
 📞 **Phone / WhatsApp:** +234 816 376 7167  
 📫 **Email:** [mkcamara180@gmail.com](mailto:mkcamara180@gmail.com)  
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚔️ Animated Visual
+## ⚔️ Visual Showcase  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mkcamara180&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
 </p>
@@ -51,9 +51,5 @@
 
 ## 🎬 Finishing Touch  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFB7&center=true&vCenter=true&width=700&lines=Securing+the+Future...;Red+Team+Operator;Cybersecurity+Expert;Innovation+Through+Security;M.K.+Camara+⚡" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="100%" alt="Cyber Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFD1&center=true&vCenter=true&width=700&lines=Securing+the+Future...;Red+Team+Operator;Cybersecurity+Expert;Innovation+Through+Security;M.K.+Camara+⚡" alt="Typing Animation" />
 </p>
