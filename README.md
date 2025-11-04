@@ -37,7 +37,7 @@ My focus: building intelligent, secure systems that empower global organizations
 
 ### 🔗 Connect
 📧 [mkcamara180@gmail.com](mailto:mkcamara180@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/muhammed-kerfala-camara-932792388/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/muhammed-camara-932792388/)  
 💬 [WhatsApp](https://wa.me/2348163767167)  
 📞 +234 816 376 7167  
 
